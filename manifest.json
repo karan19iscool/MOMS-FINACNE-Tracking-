@@ -1,0 +1,16 @@
+{
+  "name": "Mum's Expenses",
+  "short_name": "Expenses",
+  "start_url": "./index.html",
+  "display": "standalone",
+  "background_color": "#F9F8F6",
+  "theme_color": "#164E3E",
+  "icons": [
+    {
+      "src": "./icon-180.png",
+      "sizes": "180x180",
+      "type": "image/png",
+      "purpose": "any maskable"
+    }
+  ]
+}
